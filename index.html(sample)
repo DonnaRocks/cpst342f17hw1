@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Week 2 Demo</title>
+	<a href="http://google.com" target="_blank">
+
+	<link href="style.css" rel="stylesheet">
+</head>
+		<ul class="nav">
+			<li>List 1</li>
+			<li>List 2</li>
+			<li>List 3</li>
+		</ul>
+
+<body>
+	<h1>Welcom to my site on video games</h1>
+	<h2>Lorem ipsum dolor sit amet</h2>
+	<section>
+		<p>
+		 	Consectetur adipiscing elit. Nam pulvinar nulla at elit finibus tempor. <em>Quisque iaculis ac est id mollis. Pellentesque pharetra vestibulum maximus.</em> Integer vulputate imperdiet libero in dictum. Nullam a ante nunc. Suspendisse sagittis dolor in purus aliquet, at condimentum ipsum finibus. Praesent tortor neque, pharetra quis nisi vitae, tempor pharetra erat. <strong>Donec volutpat lectus a semper ornare. Proin volutpat bibendum mauris at cursus.</strong> Vivamus tincidunt semper dolor, eget feugiat mi blandit ut. Cras in metus tristique, mollis urna sit amet, feugiat diam. Sed semper et nunc id vulputate. 
+		</p>
+	</section>
+
+	<section>
+		<p>
+			Praesent vitae mollis augue, nec blandit odio. Proin sit amet rhoncus risus, aliquet dignissim libero. Vestibulum vel tellus porta, volutpat dolor eu, luctus metus. Morbi felis augue, aliquam ac ante eget, <a href="http://google.com" target="_blank">finibus lacinia nisl.</a> Ut id justo ac odio luctus tincidunt sit amet tincidunt nibh. Vestibulum tristique luctus justo ut aliquet. Etiam sollicitudin convallis tortor quis facilisis. Pellentesque tristique, metus quis tincidunt ultricies, diam urna dignissim nisl, in facilisis nulla ipsum tincidunt risus. Praesent et porta nunc, quis elementum urna. Etiam tempor posuere purus, pulvinar sodales lacus finibus at. In hac habitasse platea dictumst. Mauris nec est neque. Aliquam erat volutpat. Quisque aliquet ultricies venenatis. 
+		</p>
+	</section>
+
+	<aside>
+		<p>
+			Aenean at porttitor lorem. Phasellus egestas, odio id consectetur cursus, tortor arcu consequat est, sit amet fermentum arcu nunc sed urna. Cras ut accumsan quam. <u>Vivamus id eros vitae nisl vehicula fermentum.</u> Duis id tincidunt nulla, in molestie turpis. Mauris id augue nulla. Vestibulum aliquet pharetra fringilla. 
+		</p>
+	</aside>
+	<footer>
+		<a href="http://google.com" target="_blank">
+	ul > li:nth-child(2) {
+		background: blue;
+	}    	
+	</footer>
+</body>
+</html>
